@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <directory url="file://$PROJECT_DIR$/SpringProjects03/S_demo03_ioc/src/main/resources/archetype-resources" includeSubdirectories="true" />
+    </excludeFromCompile>
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Spring02_bean_demo01" />
+        <module name="M_demo02" />
+        <module name="M_demo07_LoginTest" />
+        <module name="M_demo01" />
+        <module name="S_demo04" />
+        <module name="S_demo05" />
+        <module name="S_demo06" />
+        <module name="S_demo07" />
+        <module name="mybaties_demo" />
+        <module name="S_demo08" />
+        <module name="Spring06_aop_quickstart" />
+        <module name="M_demo05_servlet" />
+        <module name="SpringMVC03_hello" />
+        <module name="brand-case" />
+        <module name="M_demo_servlet03" />
+        <module name="maven-project" />
+        <module name="spring_ioc_annotation" />
+        <module name="M_demo03_tomcat" />
+        <module name="M_demo08_test" />
+        <module name="Spring04_IOC_annotation" />
+        <module name="Spring01_IOC_demo01" />
+        <module name="M_demo04_tomcat" />
+        <module name="Spring03_factorybean_demo01" />
+        <module name="SpringDemo03" />
+        <module name="SpringMVC02_hello" />
+        <module name="M_demo09_VUE" />
+        <module name="S_demo01_ioc" />
+        <module name="spring_mvc_helloworld" />
+        <module name="S_demo03_ioc" />
+        <module name="Spring08_transaction" />
+        <module name="SpringMVC01_start" />
+        <module name="mybatis-demo" />
+        <module name="M_demo06_servler02" />
+        <module name="Spring05_proxy" />
+        <module name="Spring07-aop" />
+        <module name="S_demo02_ioc" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="brand-case" target="1.8" />
+      <module name="M_demo01" target="1.5" />
+      <module name="M_demo02" target="1.5" />
+      <module name="M_demo03_tomcat" target="1.5" />
+      <module name="M_demo04_tomcat" target="1.5" />
+      <module name="M_demo05_servlet" target="1.8" />
+      <module name="M_demo06_servler02" target="1.5" />
+      <module name="M_demo07_LoginTest" target="1.8" />
+      <module name="M_demo08_test" target="1.8" />
+      <module name="M_demo09_VUE" target="1.5" />
+      <module name="M_demo_servlet03" target="1.8" />
+      <module name="maven-project" target="1.8" />
+      <module name="Maven_demo" target="17" />
+      <module name="mybaties_demo" target="17" />
+      <module name="mybatis-demo" target="17" />
+      <module name="S_demo01_ioc" target="1.5" />
+      <module name="S_demo02_ioc" target="1.5" />
+      <module name="S_demo03_ioc" target="1.5" />
+      <module name="S_demo04" target="1.5" />
+      <module name="S_demo05" target="17" />
+      <module name="S_demo06" target="17" />
+      <module name="S_demo07" target="17" />
+      <module name="S_demo08" target="17" />
+      <module name="Spring01_IOC_demo01" target="1.8" />
+      <module name="Spring02_bean_demo01" target="1.8" />
+      <module name="Spring03_factorybean_demo01" target="1.8" />
+      <module name="Spring04_IOC_annotation" target="1.8" />
+      <module name="Spring05_proxy" target="17" />
+      <module name="Spring06_aop_quickstart" target="17" />
+      <module name="Spring07-aop" target="17" />
+      <module name="Spring08_transaction" target="17" />
+      <module name="spring_ioc_annotation" target="1.8" />
+      <module name="spring_mvc_helloworld" target="1.8" />
+      <module name="SpringDemo03" target="1.8" />
+      <module name="SpringMVC01_start" target="1.5" />
+      <module name="SpringMVC02_hello" target="1.8" />
+      <module name="SpringMVC03_hello" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

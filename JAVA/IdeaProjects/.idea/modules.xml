@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MavenProjects/M_demo01/M_demo01.iml" filepath="$PROJECT_DIR$/MavenProjects/M_demo01/M_demo01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MavenProjects/M_demo02/M_demo02.iml" filepath="$PROJECT_DIR$/MavenProjects/M_demo02/M_demo02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MavenProjects/M_demo03_tomcat/M_demo03_tomcat.iml" filepath="$PROJECT_DIR$/MavenProjects/M_demo03_tomcat/M_demo03_tomcat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MavenProjects/M_demo04_tomcat/M_demo04_tomcat.iml" filepath="$PROJECT_DIR$/MavenProjects/M_demo04_tomcat/M_demo04_tomcat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MavenProjects/M_demo05_servlet/M_demo05_servlet.iml" filepath="$PROJECT_DIR$/MavenProjects/M_demo05_servlet/M_demo05_servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MavenProjects/M_demo06_servler02/M_demo06_servler02.iml" filepath="$PROJECT_DIR$/MavenProjects/M_demo06_servler02/M_demo06_servler02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MavenProjects/M_demo07_LoginTest/M_demo07_LoginTest.iml" filepath="$PROJECT_DIR$/MavenProjects/M_demo07_LoginTest/M_demo07_LoginTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MavenProjects/M_demo08_test/M_demo08_test.iml" filepath="$PROJECT_DIR$/MavenProjects/M_demo08_test/M_demo08_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MavenProjects/M_demo09_VUE/M_demo09_VUE.iml" filepath="$PROJECT_DIR$/MavenProjects/M_demo09_VUE/M_demo09_VUE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MavenProjects/M_demo_servlet03/M_demo_servlet03.iml" filepath="$PROJECT_DIR$/MavenProjects/M_demo_servlet03/M_demo_servlet03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maven_demo/Maven_demo.iml" filepath="$PROJECT_DIR$/Maven_demo/Maven_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringProjects03/S_demo01_ioc/S_demo01_ioc.iml" filepath="$PROJECT_DIR$/SpringProjects03/S_demo01_ioc/S_demo01_ioc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringProjects03/S_demo02_ioc/S_demo02_ioc.iml" filepath="$PROJECT_DIR$/SpringProjects03/S_demo02_ioc/S_demo02_ioc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringProjects03/S_demo03_ioc/S_demo03_ioc.iml" filepath="$PROJECT_DIR$/SpringProjects03/S_demo03_ioc/S_demo03_ioc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringProjects03/S_demo04/S_demo04.iml" filepath="$PROJECT_DIR$/SpringProjects03/S_demo04/S_demo04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringProjects03/S_demo05/S_demo05.iml" filepath="$PROJECT_DIR$/SpringProjects03/S_demo05/S_demo05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringProjects03/S_demo06/S_demo06.iml" filepath="$PROJECT_DIR$/SpringProjects03/S_demo06/S_demo06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringProjects03/S_demo07/S_demo07.iml" filepath="$PROJECT_DIR$/SpringProjects03/S_demo07/S_demo07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringProjects03/S_demo08/S_demo08.iml" filepath="$PROJECT_DIR$/SpringProjects03/S_demo08/S_demo08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringProject04/Spring01_IOC_demo01/Spring01_IOC_demo01.iml" filepath="$PROJECT_DIR$/SpringProject04/Spring01_IOC_demo01/Spring01_IOC_demo01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringProject04/Spring02_bean_demo01/Spring02_bean_demo01.iml" filepath="$PROJECT_DIR$/SpringProject04/Spring02_bean_demo01/Spring02_bean_demo01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringProject04/Spring03_factorybean_demo01/Spring03_factorybean_demo01.iml" filepath="$PROJECT_DIR$/SpringProject04/Spring03_factorybean_demo01/Spring03_factorybean_demo01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringProject04/Spring04_IOC_annotation/Spring04_IOC_annotation.iml" filepath="$PROJECT_DIR$/SpringProject04/Spring04_IOC_annotation/Spring04_IOC_annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringProject04/Spring05_proxy/Spring05_proxy.iml" filepath="$PROJECT_DIR$/SpringProject04/Spring05_proxy/Spring05_proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringProject04/Spring06_aop_quickstart/Spring06_aop_quickstart.iml" filepath="$PROJECT_DIR$/SpringProject04/Spring06_aop_quickstart/Spring06_aop_quickstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringProject04/Spring07-aop/Spring07-aop.iml" filepath="$PROJECT_DIR$/SpringProject04/Spring07-aop/Spring07-aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringProject04/Spring08_transaction/Spring08_transaction.iml" filepath="$PROJECT_DIR$/SpringProject04/Spring08_transaction/Spring08_transaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringProjects03/SpringDemo03/SpringDemo03.iml" filepath="$PROJECT_DIR$/SpringProjects03/SpringDemo03/SpringDemo03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringMVC_01/SpringMVC01_start/SpringMVC01_start.iml" filepath="$PROJECT_DIR$/SpringMVC_01/SpringMVC01_start/SpringMVC01_start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringMVC_01/SpringMVC02_hello/SpringMVC02_hello.iml" filepath="$PROJECT_DIR$/SpringMVC_01/SpringMVC02_hello/SpringMVC02_hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringMVC_01/SpringMVC03_hello/SpringMVC03_hello.iml" filepath="$PROJECT_DIR$/SpringMVC_01/SpringMVC03_hello/SpringMVC03_hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/brand-case/brand-case.iml" filepath="$PROJECT_DIR$/brand-case/brand-case.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven-project/maven-project.iml" filepath="$PROJECT_DIR$/maven-project/maven-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybaties_demo/mybaties_demo.iml" filepath="$PROJECT_DIR$/mybaties_demo/mybaties_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-demo/mybatis-demo.iml" filepath="$PROJECT_DIR$/mybatis-demo/mybatis-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_ioc_annotation/spring_ioc_annotation.iml" filepath="$PROJECT_DIR$/spring_ioc_annotation/spring_ioc_annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringMVC_01/spring_mvc_helloworld/spring_mvc_helloworld.iml" filepath="$PROJECT_DIR$/SpringMVC_01/spring_mvc_helloworld/spring_mvc_helloworld.iml" />
+    </modules>
+  </component>
+</project>

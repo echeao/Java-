@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="M_demo09_VUE:war">
+    <output-path>$PROJECT_DIR$/MavenProjects/M_demo09_VUE/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>M_demo09_VUE</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="M_demo09_VUE.war">
+      <element id="artifact" artifact-name="M_demo09_VUE:war exploded" />
+    </root>
+  </artifact>
+</component>

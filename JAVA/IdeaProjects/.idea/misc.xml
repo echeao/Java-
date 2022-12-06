@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/brand-case" />
+    <file type="web" url="file://$PROJECT_DIR$/MavenProjects/M_demo03_tomcat" />
+    <file type="web" url="file://$PROJECT_DIR$/MavenProjects/M_demo04_tomcat" />
+    <file type="web" url="file://$PROJECT_DIR$/MavenProjects/M_demo05_servlet" />
+    <file type="web" url="file://$PROJECT_DIR$/MavenProjects/M_demo06_servler02" />
+    <file type="web" url="file://$PROJECT_DIR$/MavenProjects/M_demo07_LoginTest" />
+    <file type="web" url="file://$PROJECT_DIR$/MavenProjects/M_demo08_test" />
+    <file type="web" url="file://$PROJECT_DIR$/MavenProjects/M_demo09_VUE" />
+    <file type="web" url="file://$PROJECT_DIR$/MavenProjects/M_demo_servlet03" />
+    <file type="web" url="file://$PROJECT_DIR$/SpringMVC_01/spring_mvc_helloworld" />
+    <file type="web" url="file://$PROJECT_DIR$/SpringMVC_01/SpringMVC01_start" />
+    <file type="web" url="file://$PROJECT_DIR$/SpringMVC_01/SpringMVC02_hello" />
+    <file type="web" url="file://$PROJECT_DIR$/SpringMVC_01/SpringMVC03_hello" />
+    <file type="web" url="file://$PROJECT_DIR$/SpringProjects03/S_demo01_ioc" />
+    <file type="web" url="file://$PROJECT_DIR$/SpringProjects03/S_demo02_ioc" />
+    <file type="web" url="file://$PROJECT_DIR$/SpringProjects03/SpringDemo03" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/brand-case/pom.xml" />
+        <option value="$PROJECT_DIR$/Maven_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringMVC_01/SpringMVC01_start/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringMVC_01/SpringMVC02_hello/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringMVC_01/SpringMVC03_hello/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringMVC_01/spring_mvc_helloworld/pom.xml" />
+        <option value="$PROJECT_DIR$/maven-project/pom.xml" />
+        <option value="$PROJECT_DIR$/MavenProjects/M_demo01/pom.xml" />
+        <option value="$PROJECT_DIR$/MavenProjects/M_demo02/pom.xml" />
+        <option value="$PROJECT_DIR$/MavenProjects/M_demo09_VUE/pom.xml" />
+        <option value="$PROJECT_DIR$/MavenProjects/M_demo08_test/pom.xml" />
+        <option value="$PROJECT_DIR$/MavenProjects/M_demo03_tomcat/pom.xml" />
+        <option value="$PROJECT_DIR$/MavenProjects/M_demo04_tomcat/pom.xml" />
+        <option value="$PROJECT_DIR$/MavenProjects/M_demo05_servlet/pom.xml" />
+        <option value="$PROJECT_DIR$/MavenProjects/M_demo_servlet03/pom.xml" />
+        <option value="$PROJECT_DIR$/MavenProjects/M_demo06_servler02/pom.xml" />
+        <option value="$PROJECT_DIR$/MavenProjects/M_demo07_LoginTest/pom.xml" />
+        <option value="$PROJECT_DIR$/mybaties_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringProject04/Spring07-aop/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringProject04/Spring05_proxy/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringProject04/Spring01_IOC_demo01/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringProject04/Spring02_bean_demo01/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringProject04/Spring08_transaction/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringProject04/Spring04_IOC_annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringProject04/Spring06_aop_quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringProject04/Spring03_factorybean_demo01/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringProjects03/S_demo04/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringProjects03/S_demo05/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringProjects03/S_demo06/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringProjects03/S_demo07/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringProjects03/S_demo08/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringProjects03/S_demo01_ioc/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringProjects03/S_demo02_ioc/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringProjects03/S_demo03_ioc/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringProjects03/SpringDemo03/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_ioc_annotation/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK" />
+</project>

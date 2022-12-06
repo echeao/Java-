@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="S_demo02_ioc:war exploded">
+    <output-path>$PROJECT_DIR$/SpringProjects03/S_demo02_ioc/target/S_demo02_ioc</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>S_demo02_ioc</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="S_demo02_ioc" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/SpringProjects03/S_demo02_ioc/target/S_demo02_ioc/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="S_demo02_ioc/web/Web" />
+    </root>
+  </artifact>
+</component>

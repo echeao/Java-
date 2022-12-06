@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/MavenProjects/M_demo05_servlet/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MavenProjects/M_demo05_servlet/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MavenProjects/M_demo07_LoginTest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MavenProjects/M_demo07_LoginTest/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MavenProjects/M_demo08_test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MavenProjects/M_demo08_test/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MavenProjects/M_demo_servlet03/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MavenProjects/M_demo_servlet03/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringMVC_01/SpringMVC02_hello/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringMVC_01/SpringMVC02_hello/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringMVC_01/SpringMVC03_hello/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringMVC_01/SpringMVC03_hello/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringMVC_01/spring_mvc_helloworld/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringMVC_01/spring_mvc_helloworld/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringProject04/Spring01_IOC_demo01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringProject04/Spring01_IOC_demo01/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringProject04/Spring02_bean_demo01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringProject04/Spring02_bean_demo01/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringProject04/Spring03_factorybean_demo01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringProject04/Spring03_factorybean_demo01/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringProject04/Spring04_IOC_annotation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringProject04/Spring04_IOC_annotation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringProject04/Spring05_proxy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringProject04/Spring05_proxy/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringProject04/Spring06_aop_quickstart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringProject04/Spring06_aop_quickstart/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringProject04/Spring07-aop/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringProject04/Spring07-aop/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringProject04/Spring08_transaction/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringProject04/Spring08_transaction/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringProjects03/S_demo04/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringProjects03/S_demo04/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringProjects03/S_demo05/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringProjects03/S_demo05/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringProjects03/S_demo06/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringProjects03/S_demo06/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringProjects03/S_demo07/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringProjects03/S_demo07/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringProjects03/S_demo08/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringProjects03/S_demo08/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringProjects03/SpringDemo03/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringProjects03/SpringDemo03/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/brand-case/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/brand-case/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_ioc_annotation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_ioc_annotation/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
